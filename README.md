@@ -1,7 +1,7 @@
 # thesis-scenarios-matlab
 
 Overview:
-This repository contains MATLAB simulation scenarios developed as part of my Bachelor Thesis, focusing on the applications of Artificial Intelligence (AI) and Machine Learning (ML) in modern wireless communication systems (5G, B5G, and 6G). The goal of this project is to explore how AI techniques can improve performance, efficiency, and adaptability in dynamic wireless network environments.
+This repository contains MATLAB simulation scenarios developed as part of my Bachelor Thesis, focusing on the applications of Artificial Intelligence (AI) and Machine Learning (ML) in modern wireless communication systems. The goal of this project is to explore how AI techniques can improve performance, efficiency, and adaptability in dynamic wireless network environments.
 
 About the scenarios:
 ### 1. Channel Estimation using CNN
