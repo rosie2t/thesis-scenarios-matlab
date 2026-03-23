@@ -19,7 +19,6 @@ Detects DDoS attacks in network traffic through supervised machine learning clas
 ### 5. Beamforming Optimization using DNN
 Predicts optimal transmission angles and optimizing beamoforming technique
 
-Thesis Reference:
 This repository is based on my Bachelor Thesis: 
 
 Enrichment of Wireless Network Mechanisms using Artificial Intelligence
@@ -27,9 +26,13 @@ Enrichment of Wireless Network Mechanisms using Artificial Intelligence
 [Read the full thesis here]https://estia.hua.gr/entities/publication/5d015fa4-ef35-432c-8005-6172a41893ee
 
 Contributing:
+
 This project is for educational purposes. If you use this code, please provide attribution. This repository contains only the simulation code and the theoretical analysis and results are available in the thesis document
 
 Author:
+
 Rosie Manoli
 
-University: Harokopio University
+University: 
+
+Harokopio University
